@@ -174,11 +174,6 @@ a {
     border: 1px solid var(--border);
     border-radius: var(--radius);
     padding: 10px;
-    /* ✅ center it */
-    width: 100%;
-    max-width: 900px;
-    margin: 40px auto;
-   
     transition: 0.25s ease;
 }
 
@@ -211,6 +206,11 @@ a {
     font-size: 13px;
     color: var(--text-secondary);
     text-align: center;
+}
+
+.video-wrapper.single {
+    max-width: 900px;
+    margin: 40px auto; /* centers it */
 }
 
 /* =========================
