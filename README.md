@@ -10,7 +10,7 @@ In addition to AWS deployment, I also integrated GitHub with Vercel to host a li
 
 ## 🏗️ AWS CI/CD Architecture for Static Website Hosting
 
-![AWS CI/CD Architecture](./assets/aws-architecture.png)
+![AWS CI/CD Architecture](./assets/)
 
 This diagram shows the end-to-end CI/CD workflow from GitHub → AWS → End Users, including a live Vercel demo layer for documentation and troubleshooting.
              
